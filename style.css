@@ -1,0 +1,13 @@
+#logo {
+    border: 2px solid black;
+    border-radius: 5px;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+h1 {
+    color: darkslateblue;
+}
+
